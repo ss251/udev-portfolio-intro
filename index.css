@@ -1,0 +1,36 @@
+body{
+  font-family: Arial;
+  text-align: center;
+  margin: 0;
+}
+
+header {
+    background-image: url("https://whereisthejazzfestival.com/wp-content/uploads/2018/06/jazz-1832412_960_720.jpg");
+    background-size: cover;
+    height: 40vw;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36pt;
+    color: black;
+}
+
+div{
+  height: 10vw;
+  margin-left: 0;
+  margin-right: 0;
+  width: 40vw;
+}
+
+main{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.player-profile{
+    border-radius: 50%;
+    width: 250px;
+}
